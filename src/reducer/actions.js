@@ -1,0 +1,5 @@
+export const ACTIONS = {
+    ADD_TODO: "ADD-TODO",
+    DELETE_TODO: "DELETE-TODO",
+    EDIT_TODO: "EDIT-TODO"
+}
